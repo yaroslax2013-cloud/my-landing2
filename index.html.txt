@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Big Win Story</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #f4f6f8;
+        color: #222;
+        line-height: 1.6;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: auto;
+        background: white;
+        padding: 20px;
+    }
+
+    .header {
+        text-align: center;
+        padding: 20px 0;
+    }
+
+    .header h1 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+
+    .header p {
+        color: gray;
+        font-size: 14px;
+    }
+
+    .hero-img {
+        width: 100%;
+        border-radius: 10px;
+        margin: 15px 0;
+    }
+
+    .article p {
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .highlight {
+        background: #fff3cd;
+        padding: 10px;
+        border-left: 4px solid #ffc107;
+        margin: 15px 0;
+    }
+
+    .cta {
+        text-align: center;
+        margin: 30px 0;
+    }
+
+    .btn {
+        background: #28a745;
+        color: white;
+        padding: 15px 25px;
+        text-decoration: none;
+        font-size: 18px;
+        border-radius: 8px;
+        display: inline-block;
+        transition: 0.3s;
+    }
+
+    .btn:hover {
+        background: #218838;
+    }
+
+    .footer {
+        text-align: center;
+        font-size: 12px;
+        color: gray;
+        margin-top: 30px;
+    }
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>“I Never Believed It Until It Happened to Me”</h1>
+        <p>Story from Lagos, Nigeria • Personal Experience</p>
+    </div>
+
+    <img class="hero-img" src="image/win1.jpeg" alt="Winning moment">
+
+<div class="article">
+
+        <p>
+            My name is Daniel, I live in Lagos, Nigeria. I always thought online slots were just luck — nothing more.
+            I used to watch others talk about winnings, but I never believed it could actually happen to me.
+        </p>
+
+        <p>
+            One evening, I decided to try again. I wasn’t expecting anything special.
+            I deposited a small amount, just what I could afford to lose.
+        </p>
+
+        <div class="highlight">
+            Within minutes, the game started to change. I hit a bonus round… and everything exploded.
+        </div>
+
+        <p>
+            At first, I thought it was just visual effects. But the balance kept increasing.
+            I was literally staring at the screen in disbelief.
+        </p>
+
+        <p>
+            When I finally stopped, I had won more than I ever expected in my life from a single session.
+            It felt unreal — like something I only saw in ads before.
+        </p>
+
+        <p>
+            I’m not saying it will happen to everyone. But after this experience, I understood one thing:
+            sometimes you don’t know when luck will hit you.
+        </p>
+
+    </div>
+
+    <div class="cta">
+        <h2>Try Your Luck Now</h2>
+        <p>Join players from Nigeria already playing today</p>
+        <a class="btn" href="https://track.onepartners.tech/click?o=4746&a=14792">Play Now</a>
+    </div>
+
+    <div class="footer">
+        © 2026 • Personal Story Blog • Nigeria Audience
+    </div>
+
+</div>
+
+</body>
+</html>
